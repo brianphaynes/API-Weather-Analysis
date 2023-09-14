@@ -1,2 +1,2 @@
-# python_api_challenge
-API Work 
+# Weather API Analysis
+This project dynamically generates a list of random cities across various latitudes and longitudes, utilizing Python's libraries like NumPy and the city-finding package citipy. It then fetches real-time weather data for each city using the OpenWeatherMap API, efficiently handling exceptions and rate-limiting, and employs Pandas and Matplotlib to analyze and visualize the relationship between geographic latitude and key weather indicators such as temperature, humidity, cloudiness, and wind speed.
